@@ -34,7 +34,7 @@ main {
     padding: 30px;
     border: 1px solid white;
     border-radius: 30px;
-    max-width: 650px;
+    max-width: 700px;
     text-align: start;
     margin: 100px;
     position: relative;
@@ -46,6 +46,7 @@ h1 {
     font-family: "Young Serif", serif;
     font-weight: 400;
     font-size: 2.5rem;
+    margin: 15px;
 }
 
 h2 {
@@ -53,6 +54,7 @@ h2 {
     color: hsl(14, 45%, 36%); /*nutmeg*/
     font-size: 2rem;
     font-weight: 400;
+    margin: 15px;
 }
 
 h3 {
@@ -60,6 +62,10 @@ h3 {
     font-weight: 700;
     padding: 5px 25px;
     margin: 10px 0 0;
+}
+
+p {
+    margin: 15px;
 }
 
 p, li, td {
@@ -73,9 +79,12 @@ p, li, td {
     background-color: hsl(330, 100%, 98%); /*rose white*/
     border-radius: 20px;
     line-height: 2;
+    margin: 15px;
+    padding: 10px 5px;
+    align-content: space-around;
 }
-.preptime ul {
-    margin: 0 0 16px;
+.preptime li {
+    padding-left: 15px;
 }
 
 .preptime li::marker {
@@ -89,13 +98,23 @@ p, li, td {
 
 .ingredients li {
     list-style-type: square;
-    padding: 1px 5px;
+    padding: 1px 15px;
 }
 
 .ingredients li::marker {
     color: hsl(14, 45%, 36%);
     font-size: 0.75em;
     margin: 20px;
+}
+
+.instructions li {
+    margin: 10px 0;
+    padding-left: 15px;
+}
+
+.instructions li::marker {
+    font-weight: 700;
+    color: hsl(14, 45%, 36%);
 }
 
 footer { 
