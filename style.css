@@ -12,7 +12,6 @@ html {
 }
 
 body {
-    height: 100vh;
     display: flex;
     justify-content: center;
     background-color: hsl(30, 54%, 90%); /*eggshell*/
@@ -38,8 +37,6 @@ main {
     max-width: 675px;
     text-align: start;
     margin: 100px;
-    position: relative;
-    top: 20%;
     justify-content: center;
 }
 
