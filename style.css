@@ -39,7 +39,7 @@ main {
     text-align: start;
     margin: 100px;
     position: relative;
-    top: 50px;
+    top: 20%;
     justify-content: center;
 }
 
@@ -114,6 +114,8 @@ p, li, td {
 
 .instructions {
     margin: 15px;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+    padding-bottom: 15px;
 }
 
 .instructions li {
@@ -128,6 +130,10 @@ p, li, td {
 
 .nutrition {
     margin: 15px;
+}
+
+.nutrition p {
+    margin: 15px 5px;
 }
 
 .nutrition table {
