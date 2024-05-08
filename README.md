@@ -19,8 +19,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: coming soon
-- Live Site URL: coming soon
+- [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-with-flexbox-AO4M-_0Wd_)
+- [Live Site](https://frankhukka.github.io/resepti/)
 
 ## My process
 
@@ -32,11 +32,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-In this challenge I learned to write semantic HTML to make websites more accessible. This challenge was also a good opportunity to further improve my CSS skills.
+In this challenge I learned to write semantic HTML to make websites more accessible. This challenge was also a good opportunity to further improve my CSS skills. I got to try my hand at responsive designing with media queries.
 
 ### Continued development
 
-This project is still incomplete. I will push updates frequently.
+In the future I want to try designing more responsive web sites for different screen sizes.
 
 ### Useful resources
 
