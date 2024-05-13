@@ -34,7 +34,7 @@ main {
     padding: 30px;
     border: 1px solid white;
     border-radius: 30px;
-    max-width: 675px;
+    width: min(100%, 675px);
     text-align: start;
     margin: 100px;
     justify-content: center;
